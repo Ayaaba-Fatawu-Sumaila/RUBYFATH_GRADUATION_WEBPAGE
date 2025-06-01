@@ -1,2 +1,0 @@
-# RUBYFATH_GRADUATION_WEBPAGE
-IKCU 2025 TOMER graduation ceremony webpage
